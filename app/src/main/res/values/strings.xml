@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title">Title</string>
+    <string name="list">List</string>
+    <string name="notes">Notes</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="add_checklist">Add Checklist</string>
+    <string name="edit_checklist">Edit Checklist</string>
+
+    <string-array name="lists_array">
+        <item>List 0</item>
+        <item>List 1</item>
+        <item>List 2</item>
+        <item>List 3</item>
+        <item>List 4</item>
+        <item>List 5</item>
+        <item>List 6</item>
+        <item>List 7</item>
+        <item>List 8</item>
+        <item>List 9</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_initialize">Initialize</string>
+</resources>

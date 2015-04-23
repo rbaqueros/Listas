@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="colorPrimary">@color/deep_purple_500</item>
+        <item name="colorPrimaryDark">@color/deep_purple_700</item>
+        <item name="colorAccent">@color/orange_A400</item>
+        <item name="android:textColorPrimary">@color/black_primary_text</item>
+        <item name="android:textColorSecondary">@color/black_secondary_text</item>
+    </style>
+
+</resources>
